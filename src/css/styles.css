@@ -67,3 +67,16 @@ body{
 .hide{
     display: none;
 }
+.box-button{
+    
+    width: 100%;
+    padding-top: 30px
+}
+.play-again{
+    background-color: rgb(95, 132, 255);
+    border-radius: 15px;
+    border: none;
+    padding: 7px 10px;
+    color: white;
+    font-variant: small-caps;
+}
