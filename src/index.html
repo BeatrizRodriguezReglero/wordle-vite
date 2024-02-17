@@ -10,8 +10,19 @@
 		<title>Vite App</title>
 	</head>
 	<body>
-		<h1>WEB WITH VITE</h1>
-		<!-- <img src="./assets/images/cute-cat.webp" alt="" /> -->
+		<main class="main-game">
+			<h1 class="title">WORDLE</h1>
+			<div id="game-board" class="game-board">
+	
+			</div>
+			<span id="correct-word" class="hide"></span>
+			<span id="length-error" class=""></span>
+			<form id="word-form" class="word-form">
+				<input id="input" type="text" name="word" class="input" placeholder="Type your solution">
+			</form>
+			<button id="button" class="hide">Play Again</button> 
+		</main>
+		
 		<script type="module" src="./js/index.js"></script>
 	</body>
 </html>
