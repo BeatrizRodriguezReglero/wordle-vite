@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen del proyecto]([(https://raw.githubusercontent.com/BeatrizRodriguezReglero/wordle-vite/main/src/assets/images/image-final.png)])
+![Imagen del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/wordle-vite/main/src/assets/images/image-final.png)
 
 ## Ejemplo en vivo
 
