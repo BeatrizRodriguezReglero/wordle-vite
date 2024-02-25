@@ -34,7 +34,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 
 **Bea**
-Puedes contactar conmigo a través de:
+
 - [micorreo@midominio.com](beatriz.rreglero@gmail.com)
 
 
