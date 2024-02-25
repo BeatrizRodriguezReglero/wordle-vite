@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto](https://beatrizrodriguezreglero.github.io/wordle-vite/)
+- [WORDLE](https://beatrizrodriguezreglero.github.io/wordle-vite/)
 
 
 ## Descripción 📑
