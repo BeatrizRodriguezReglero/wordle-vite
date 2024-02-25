@@ -152,4 +152,19 @@ const functionFormWord = event => {
 
 	event.target.reset();
 };
+
+// const playAgain = () => {
+// 	formWordElement.classList.remove('hide');
+// 	buttonElement.classList.add('hide');
+// 	correctWordElement.classList.add('hide');
+// 	gameBoardRow = 0;
+// 	userWord = '';
+// 	haveYouWon = false;
+// 	for (let i = 0; i < numberOfTries; i++) {
+// 		const gameBoardRowElement = gameBoardElement.children[i];
+// 		gameBoardRowElement.innerHTML = '';
+// 		gameBoardRowElement.className = 'boxes';
+// 	}
+// 	startGame();
+// };
 export { createGameBoard, functionFormWord };
