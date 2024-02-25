@@ -35,7 +35,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **Bea**
 
-- [micorreo@midominio.com](beatriz.rreglero@gmail.com)
+- [beatriz.rreglero@gmail.com](beatriz.rreglero@gmail.com)
 
 
 
