@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/wordle-vite/main/src/assets/images/image-final.png)
+![Imagen del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/wordle-vite/main/src/assets/images/image-wordle.png)
 
 ## Ejemplo en vivo
 
@@ -9,11 +9,12 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Es una versión del conocido juego WORDLE
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Seguimos repasando bucles,creando elementos desde javascript, añadir y quitar clases. 
+La dificultad de este proyecto era comprobar las letras que estaban en la palabra pero no en el sitio correcto.
 
 ## Tecnologías 🛠
 
@@ -27,17 +28,16 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/wordle-vite/main/src/assets/images/image-final.png)
+
 
 ## Autor ✒️
 
-**TU NOMBRE**
+**Bea**
+Puedes contactar conmigo a través de:
+- [micorreo@midominio.com](beatriz.rreglero@gmail.com)
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+
 
 ## Instalación
 
